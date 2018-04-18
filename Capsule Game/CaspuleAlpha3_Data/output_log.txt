@@ -1,0 +1,119 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.788 seconds
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha3_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.392000 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: cb4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.328888 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 7.666666 ms (FindLiveObjects: 0.029333 ms CreateObjectMapping: 0.029777 ms MarkObjects: 0.172888 ms  DeleteObjects: 7.433333 ms)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.545333 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 325.
+Total: 0.634666 ms (FindLiveObjects: 0.068000 ms CreateObjectMapping: 0.024888 ms MarkObjects: 0.517777 ms  DeleteObjects: 0.020444 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568444 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1804.
+Total: 4.882666 ms (FindLiveObjects: 0.136888 ms CreateObjectMapping: 0.064444 ms MarkObjects: 0.496888 ms  DeleteObjects: 4.183111 ms)
+
+Wave : 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.GameObject[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.GameObject[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FIRE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FIRE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FIRE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FIRE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.GameObject[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.GameObject[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.424000 ms
+
+Unloading 405 unused Assets to reduce memory usage. Loaded Objects now: 293.
+Total: 13.230223 ms (FindLiveObjects: 0.033777 ms CreateObjectMapping: 0.028444 ms MarkObjects: 0.163111 ms  DeleteObjects: 13.003555 ms)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487111 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.664444 ms (FindLiveObjects: 0.084888 ms CreateObjectMapping: 0.016888 ms MarkObjects: 0.285777 ms  DeleteObjects: 0.275555 ms)
+

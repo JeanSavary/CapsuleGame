@@ -1,0 +1,124 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.299 seconds
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Travail\Télécom Bretagne\S2\Projet DEV\Ressources\CapsuleAlpha\CapsuleAlpha\ShooterLouis\CaspuleAlpha2_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 48Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.638669 ms
+Wave : 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ba4 -> priority: 1 
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.GameObject[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+heal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+heal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.GameObject[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+heal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+heal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.GameObject[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+heal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+heal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnityEngine.GameObject[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+heal
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Healer.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Healer.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Follower.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Follower.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Follower.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Follower.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Follower.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
